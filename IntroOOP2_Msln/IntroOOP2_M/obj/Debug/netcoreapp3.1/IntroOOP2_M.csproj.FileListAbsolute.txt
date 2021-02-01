@@ -1,0 +1,13 @@
+C:\Users\Windows\Desktop\Csharp\Mid\All Code\IntroOOP2_Msln\IntroOOP2_M\bin\Debug\netcoreapp3.1\IntroOOP2_M.exe
+C:\Users\Windows\Desktop\Csharp\Mid\All Code\IntroOOP2_Msln\IntroOOP2_M\bin\Debug\netcoreapp3.1\IntroOOP2_M.deps.json
+C:\Users\Windows\Desktop\Csharp\Mid\All Code\IntroOOP2_Msln\IntroOOP2_M\bin\Debug\netcoreapp3.1\IntroOOP2_M.runtimeconfig.json
+C:\Users\Windows\Desktop\Csharp\Mid\All Code\IntroOOP2_Msln\IntroOOP2_M\bin\Debug\netcoreapp3.1\IntroOOP2_M.runtimeconfig.dev.json
+C:\Users\Windows\Desktop\Csharp\Mid\All Code\IntroOOP2_Msln\IntroOOP2_M\bin\Debug\netcoreapp3.1\IntroOOP2_M.dll
+C:\Users\Windows\Desktop\Csharp\Mid\All Code\IntroOOP2_Msln\IntroOOP2_M\bin\Debug\netcoreapp3.1\IntroOOP2_M.pdb
+C:\Users\Windows\Desktop\Csharp\Mid\All Code\IntroOOP2_Msln\IntroOOP2_M\obj\Debug\netcoreapp3.1\IntroOOP2_M.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\Csharp\Mid\All Code\IntroOOP2_Msln\IntroOOP2_M\obj\Debug\netcoreapp3.1\IntroOOP2_M.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\Csharp\Mid\All Code\IntroOOP2_Msln\IntroOOP2_M\obj\Debug\netcoreapp3.1\IntroOOP2_M.AssemblyInfo.cs
+C:\Users\Windows\Desktop\Csharp\Mid\All Code\IntroOOP2_Msln\IntroOOP2_M\obj\Debug\netcoreapp3.1\IntroOOP2_M.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Csharp\Mid\All Code\IntroOOP2_Msln\IntroOOP2_M\obj\Debug\netcoreapp3.1\IntroOOP2_M.dll
+C:\Users\Windows\Desktop\Csharp\Mid\All Code\IntroOOP2_Msln\IntroOOP2_M\obj\Debug\netcoreapp3.1\IntroOOP2_M.pdb
+C:\Users\Windows\Desktop\Csharp\Mid\All Code\IntroOOP2_Msln\IntroOOP2_M\obj\Debug\netcoreapp3.1\IntroOOP2_M.genruntimeconfig.cache

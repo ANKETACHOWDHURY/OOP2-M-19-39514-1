@@ -1,0 +1,7 @@
+C:\Users\Windows\Desktop\Csharp\Mid\All Code\FirstTask\FirstTask\bin\Debug\FirstTask.exe.config
+C:\Users\Windows\Desktop\Csharp\Mid\All Code\FirstTask\FirstTask\bin\Debug\FirstTask.exe
+C:\Users\Windows\Desktop\Csharp\Mid\All Code\FirstTask\FirstTask\bin\Debug\FirstTask.pdb
+C:\Users\Windows\Desktop\Csharp\Mid\All Code\FirstTask\FirstTask\obj\Debug\FirstTask.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\Csharp\Mid\All Code\FirstTask\FirstTask\obj\Debug\FirstTask.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Csharp\Mid\All Code\FirstTask\FirstTask\obj\Debug\FirstTask.exe
+C:\Users\Windows\Desktop\Csharp\Mid\All Code\FirstTask\FirstTask\obj\Debug\FirstTask.pdb
