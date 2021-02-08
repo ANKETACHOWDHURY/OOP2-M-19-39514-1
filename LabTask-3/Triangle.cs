@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Labtask_3
+namespace LabTask_3
 {
     class Triangle
     {
@@ -16,39 +16,51 @@ namespace Labtask_3
         {
             set { x = value; }
             get { return x; }
+
         }
+
         public int Y
         {
             set { y = value; }
-            get { return z; }
+            get { return y; }
+
         }
+
         public int Z
         {
             set { z = value; }
             get { return z; }
-        }
-        public Triangle()
-        {
-            Console.WriteLine("constructor with empty parameter ");
 
         }
+
         public Triangle(int x, int y, int z)
         {
-            Console.WriteLine("Constructor with 3 parameter ");
             this.x = x;
             this.y = y;
             this.z = z;
 
         }
-        public void ShowInfo()
-        {
-            Console.WriteLine("X is: " + x);
-            Console.WriteLine("Y is: " + y);
-            Console.WriteLine("Z is: " + z);
-        }
-     
 
+        public void TestTriangle()
+        {
+            if (x == y && y == z)
+            {
+                Console.WriteLine("The triangle is equilateral ");
+            }
+            else if (x == y || y == z || x == z)
+            {
+                Console.WriteLine("The triangle is isosceles ");
+            }
+            else
+            {
+                Console.WriteLine("The triangle is scalene ");
+
+            }
+
+
+        }
 
 
     }
 }
+

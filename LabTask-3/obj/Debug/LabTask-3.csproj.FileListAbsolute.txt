@@ -1,0 +1,7 @@
+C:\Users\Windows\Desktop\Csharp\Mid\All Code\LabTask-3\bin\Debug\LabTask-3.exe.config
+C:\Users\Windows\Desktop\Csharp\Mid\All Code\LabTask-3\bin\Debug\LabTask-3.exe
+C:\Users\Windows\Desktop\Csharp\Mid\All Code\LabTask-3\bin\Debug\LabTask-3.pdb
+C:\Users\Windows\Desktop\Csharp\Mid\All Code\LabTask-3\obj\Debug\LabTask-3.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\Csharp\Mid\All Code\LabTask-3\obj\Debug\LabTask-3.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Csharp\Mid\All Code\LabTask-3\obj\Debug\LabTask-3.exe
+C:\Users\Windows\Desktop\Csharp\Mid\All Code\LabTask-3\obj\Debug\LabTask-3.pdb

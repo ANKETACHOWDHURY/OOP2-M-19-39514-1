@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BAC52DA2-587B-42B2-8A10-A37377302D32}</ProjectGuid>
+    <ProjectGuid>{55FE8A72-4FE1-4168-BAC2-D96AD6899068}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Labtask_3</RootNamespace>
-    <AssemblyName>Labtask_3</AssemblyName>
+    <RootNamespace>LabTask_3</RootNamespace>
+    <AssemblyName>LabTask-3</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -47,7 +47,7 @@
     <Compile Include="Course.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="student.cs" />
+    <Compile Include="Student.cs" />
     <Compile Include="Triangle.cs" />
   </ItemGroup>
   <ItemGroup>
