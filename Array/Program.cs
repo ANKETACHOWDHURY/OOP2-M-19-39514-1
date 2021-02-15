@@ -24,7 +24,7 @@ namespace Array
             {
                 sum = sum + arr1[i];
             }
-            Console.WriteLine("Sum of the array elements is : {0}", sum  );
+            Console.WriteLine("Sum of the array elements is : {0}", sum);
 
             int[] arr2 = new int[5];
             Console.Write("Copy Array Elements : ");
@@ -35,6 +35,17 @@ namespace Array
             for (int l = 0; l < arr2.Length; l++)
             {
                 Console.Write(arr2[l] + " ");
+            }
+            Console.WriteLine();
+
+            int[] arr3 = { 9, 9, 4, 3, 15, 15, 5, 6, 6, 7,20,30 };
+            for (int m = 0; m < arr3.Length; m++)
+            {
+                for (int n = m + 1; n < arr3.Length; n++)
+                {
+                    if (arr3[m] == arr3[n])
+                        Console.WriteLine("Number {0} has a duplication.", arr3[m]);
+                }
             }
             Console.WriteLine();
 
