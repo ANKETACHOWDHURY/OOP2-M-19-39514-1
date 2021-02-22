@@ -6,14 +6,28 @@ using System.Threading.Tasks;
 
 namespace Inheritance
 {
-    class Savings
+    class Savings : Account
     {
-        private int myVar;
-
-        public int MyProperty
+        public savings(string name, string id, int balance) : base(name, id, balance)
         {
-            get { return myVar; }
-            set { myVar = value; }
+            Console.WriteLine("savings account created.");
+        }
+
+        new public void withdraw(int withdraw)
+        {
+            if (withdraw >= 430)
+            {
+                if (withdraw <= Balance)
+                {
+                    Balance = Balance - withdraw;
+                    Console.WriteLine("Withdraw completed.");
+                    Console.WriteLine("New Balance: " + Balance);
+                }
+                else
+                    Console.WriteLine("Balance is less then" + withdraw);
+            }
+            else
+                Console.WriteLine("Cannot withdraw!!! Less Than 430!!");
         }
 
     }
