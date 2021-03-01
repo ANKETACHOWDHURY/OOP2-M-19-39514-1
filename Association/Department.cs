@@ -36,13 +36,14 @@ namespace Association
             foreach (Student s in stu)
             {
                 students[studentCount++] = s;
+                s.Dept = this;
             }
         }
 
-       
+
         public void PrintStudents()
         {
-            for(int i=0; i<studentCount;i++)
+            for (int i = 0; i < studentCount; i++)
             {
                 students[i].ShowInfo();
             }
@@ -51,11 +52,17 @@ namespace Association
         {
             return null;
         }
-        public Department() { }
+        public Department()
+        {
+            students = new Student[50];
+        }
         public Department(string name, string id)
         {
             this.name = name;
             this.id = id;
+            students = new Student[50];
+
+
         }
         public void ShowInfo()
         {
